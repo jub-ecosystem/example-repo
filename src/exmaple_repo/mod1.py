@@ -3,3 +3,5 @@ def do_something():
 
 def sum(x,y):
     return x+y
+def main():
+    return False 
