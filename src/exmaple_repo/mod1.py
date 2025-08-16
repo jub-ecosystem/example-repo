@@ -4,5 +4,4 @@ def do_something():
 def sum(x,y):
     return x+y
 def main():
-    raise Exception("BOOM")
-    return False 
+    return True
