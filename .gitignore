@@ -1,0 +1,8 @@
+*.log
+*.csv
+*.png
+*.jpg
+__pycache__/
+.pytest_cache/
+*.lock
+.coverage
