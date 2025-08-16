@@ -8,3 +8,6 @@ def test_mod1_do_something():
 
 def test_mod1_sum():
     assert sum(1,2) == 3
+
+def main():
+    return False
