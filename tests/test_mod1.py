@@ -1,5 +1,5 @@
 import pytest
-from exmaple_repo.mod1 import do_something,sum,main
+from example_repo.mod1 import do_something,sum,main
 
 
 
