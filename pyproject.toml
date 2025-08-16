@@ -1,5 +1,5 @@
 [project]
-name = "exmaple-repo"
+name = "example-repo"
 version = "0.1.0"
 description = ""
 authors = [
@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "exmaple_repo", from = "src"}]
+packages = [{include = "example_repo", from = "src"}]
 
 
 [tool.poetry.group.dev.dependencies]
